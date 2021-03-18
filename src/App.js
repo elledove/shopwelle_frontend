@@ -5,8 +5,12 @@ import Header from './components/Header';
 const App = () => {
   return (
     <div className="App">
-      <h1>Hi YaLL</h1>
       <Header/>
+      <main>
+      <h1>Hi YaLL</h1>
+      </main>
+     
+      
       <Footer/>
 
     </div>
